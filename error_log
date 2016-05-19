@@ -1,0 +1,19 @@
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(inc/php/head.php): failed to open stream: No such file or directory in /home/hasakba/public_html/tesanj/index.php on line 4
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(inc/php/head.php): failed to open stream: No such file or directory in /home/hasakba/public_html/tesanj/index.php on line 4
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(): Failed opening 'inc/php/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hasakba/public_html/tesanj/index.php on line 4
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(inc/php/first.php): failed to open stream: No such file or directory in /home/hasakba/public_html/tesanj/index.php on line 9
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(inc/php/first.php): failed to open stream: No such file or directory in /home/hasakba/public_html/tesanj/index.php on line 9
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(): Failed opening 'inc/php/first.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hasakba/public_html/tesanj/index.php on line 9
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(inc/php/last.php): failed to open stream: No such file or directory in /home/hasakba/public_html/tesanj/index.php on line 106
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(inc/php/last.php): failed to open stream: No such file or directory in /home/hasakba/public_html/tesanj/index.php on line 106
+[21-May-2016 00:31:28 Europe/Sarajevo] PHP Warning:  include(): Failed opening 'inc/php/last.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hasakba/public_html/tesanj/index.php on line 106
+[21-May-2016 00:31:47 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hasakba/public_html/tesanj/inc/php/db.php on line 8
+[21-May-2016 00:31:47 Europe/Sarajevo] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/hasakba/public_html/tesanj/inc/php/db.php on line 9
+[21-May-2016 00:31:47 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/hasakba/public_html/tesanj/inc/php/vrh.php on line 10
+[21-May-2016 00:31:47 europe/sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hasakba/public_html/tesanj/inc/php/first.php on line 25
+[21-May-2016 00:31:47 europe/sarajevo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hasakba/public_html/tesanj/inc/php/first.php on line 26
+[21-May-2016 00:45:05 Europe/Sarajevo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hasakba/public_html/tesanj/inc/php/db.php on line 8
+[21-May-2016 00:45:05 Europe/Sarajevo] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/hasakba/public_html/tesanj/inc/php/db.php on line 9
+[21-May-2016 00:45:05 Europe/Sarajevo] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/hasakba/public_html/tesanj/inc/php/vrh.php on line 10
+[21-May-2016 00:45:05 europe/sarajevo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hasakba/public_html/tesanj/inc/php/first.php on line 25
+[21-May-2016 00:45:05 europe/sarajevo] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hasakba/public_html/tesanj/inc/php/first.php on line 26
